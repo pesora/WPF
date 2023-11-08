@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-F:\projectc\WpfStudy\WpfStudy\obj\Debug\net5.0-windows\
+D:\Sunshine\CSharp\WPF\최종소스코드및테이블생성문\WpfStudy\WpfStudy\obj\Debug\net5.0-windows\
 WpfStudy
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-F:\projectc\WpfStudy\WpfStudy\App.xaml
+D:\Sunshine\CSharp\WPF\최종소스코드및테이블생성문\WpfStudy\WpfStudy\App.xaml
 4726775051
 
 14-1431203296
-196-1892264572
+196307480512
 UserControls\MyLabel.xaml;UserControls\ThreeControls.xaml;Views\MainWindow.xaml;Views\SecondView.xaml;
 
 False
